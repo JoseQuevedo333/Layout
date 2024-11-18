@@ -35,7 +35,7 @@ body {
 .main {
   grid-area: main;
   padding: 5px;
-  background-image: url("/assets/img/PickMe_logo_rojo_horizontal.png");
+  background-image: url("../img/PickMe_logo_rojo_horizontal.png");
   background-size: 30%;
   background-position: right;
 
